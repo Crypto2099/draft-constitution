@@ -9,7 +9,7 @@ Emurgo, and the Cardano Foundation, came together to foster the emergence of a n
 blockchain, the Cardano Blockchain, laying the foundation for a decentralized network that
 would empower individuals, and promote collaboration and innovation. Their pioneering efforts
 have shaped the path for a blockchain designed to ensure a fair and transparent environment
-where all participants can contribute to the Cardano Blockchain ecosystem's growth and success.
+where all participants can contribute to the Cardano Blockchain.
 
 Over time, the Cardano Blockchain ecosystem has expanded significantly, and now, the Cardano
 Blockchain ecosystem, comprising of thousands of ada holders, individuals, builders, developers,
