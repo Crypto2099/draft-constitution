@@ -1761,6 +1761,10 @@ ecosystem budget then in effect pursuant to a previous on-chain governance
 action agreed by the DReps with a threshold of greater than 50% of the active
 voting stake~~
 
+**TREASURY-05a (x) Withdrawals from the Cardano Blockchain treasury **must** 
+conform to all budgetary requirements specified in Article IV of this 
+Constitution.**
+
 ### 4. Guardrails and Guidelines on Hard Fork Initiation Actions
 
 The **hard fork initiation** action requires both a new major and a new minor
