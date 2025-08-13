@@ -214,44 +214,54 @@ Cardano Blockchain.
 
 Any participant in the Cardano Community may propose a Cardano Blockchain
 ecosystem budget at any time.
+
 The Cardano Community is expected to periodically propose one or more budgets
 for the ongoing operation, maintenance and future development of the Cardano
 Blockchain ecosystem and for covering other costs related to the
-implementation, administration and maintenance of the decentralized, on-chain
+implementation, administration, and maintenance of the decentralized, on-chain
 governance processes provided for in this Constitution.
+
 The Cardano Community may propose one aggregate budget or multiple budgets for
 the Cardano Blockchain ecosystem.
+
 Such budgets are expected to cover not less than a period of 73 epochs
-(approximately one calendar year) but nothing shall prevent the Cardano
+(approximately one calendar year); but nothing shall prevent the Cardano
 Community from proposing budgets for shorter or longer time periods.
-All owners of ada are expected to periodically approve one or more Cardano
-Blockchain ecosystem budgets through an on-chain "Info" action.
-As provided in Section 3 of this Article IV, withdrawals may be made from the
+
+~~All owners of ada are expected to periodically approve one or more Cardano
+Blockchain ecosystem budgets through an on-chain "Info" action.~~
+
+~~As provided in Section 3 of this Article IV, withdrawals may be made from the
 Cardano Blockchain treasury as necessary from time to time to give effect to
 the Cardano Blockchain ecosystem budget or budgets then in effect.
 Existing budgets may be amended following the same process as provided in this
-Section 1.
+Section 1.~~
+
+**Treasury Withdrawal Actions must include all budgetary requirements specified
+within this article and the Cardano Blockchain Guardrails Appendix.**
 
 ### Section 2
 
 Development of Cardano Blockchain ecosystem budgets and the administration of
 such budgets shall utilize, to the extent possible and beneficial, smart
-contracts and other blockchain based tools to facilitate decision-making and
+contracts and other blockchain-based tools to facilitate decision-making and
 ensure transparency.
+
 Cardano Blockchain budgets shall specify a process for overseeing use of funds
-from Cardano Blockchain treasury withdrawals including designating one or more
+from Cardano Blockchain treasury withdrawals, including designating one or more
 administrators who shall be responsible for such oversight.
 
 ### Section 3
 
 Withdrawals from the Cardano Blockchain treasury that would cause the Cardano
-Blockchain treasury balance to violate the then applicable net change limit
+Blockchain treasury balance to violate the then-applicable net change limit
 shall not be permitted.
+
 No withdrawals from the Cardano Blockchain treasury shall be permitted unless
-such withdrawals have been authorized and are being made pursuant to a budget
-for the Cardano Blockchain that is then in effect as required by the Cardano
-Blockchain Guardrails Appendix, and which has not been determined by the
-Constitutional Committee to be unconstitutional.
+such withdrawals have been authorized and are being made pursuant to 
+**or including** a budget for the Cardano Blockchain ~~that is then in effect as 
+required by the Cardano Blockchain Guardrails Appendix,~~ and which has not been 
+determined by the Constitutional Committee to be unconstitutional.
 
 ### Section 4
 
@@ -259,6 +269,7 @@ Any governance action requesting ada from the Cardano Blockchain treasury shall
 require an allocation of ada as a part of such funding request to cover the
 cost of periodic independent audits and the implementation of oversight metrics
 as to the use of such ada.
+
 Contractual obligations governing the use of ada received from the Cardano
 Blockchain treasury pursuant to a Cardano Blockchain ecosystem budget shall
 include dispute resolution provisions.
@@ -434,6 +445,7 @@ In a state of no-confidence, members of the then standing Constitutional
 Committee must be reinstated or replaced using the "Update committee/threshold"
 governance action before any other on-chain governance action, other than
 "Info" actions, may go forward.
+
 During a state of no-confidence, "Info" actions other than "Info" actions
 relating to budget proposals or treasury withdrawal proposals, may continue to
 be recorded on-chain.
@@ -444,6 +456,7 @@ requisite percentage as specified by the Guardrails of SPOs and DReps, voting
 separately pursuant to an "Update Constitutional Committee/threshold and/or
 term" governance action, such member shall be removed from the Constitutional
 Committee upon the implementation of the governance action.
+
 Thereafter, an election shall be held as soon as practical to replace the
 member so removed.
 
@@ -486,12 +499,15 @@ Constitutional Committee to perform its required functions.
 
 Constitutional Committee members may be compensated for their efforts as
 members of the Constitutional Committee.
+
 Constitutional Committee members shall ensure that any compensation received in
 connection with their activities as a member is disclosed.
+
 Budgets approved for the Cardano Blockchain ecosystem may include allocations
 from the Cardano Blockchain treasury sufficient to compensate Constitutional
 Committee members in such amounts as may be approved from time to time by ada
 owners.
+
 Cardano Blockchain ecosystem budgets shall provide for periodic administrative
 costs of the Constitutional Committee in such amounts as requested from time to
 time by the Constitutional Committee and as approved by ada owners.
@@ -1732,18 +1748,18 @@ TREASURY-01a (x) A net change limit for the Cardano treasury's balance per
 period of time **must** be agreed by the DReps via an on-chain governance
 action with a threshold of greater than 50% of the active voting stake
 
-TREASURY-02a (x) Withdrawals from the Cardano Blockchain treasury made pursuant
-to an approved Cardano Blockchain ecosystem budget **must not** exceed the net
+TREASURY-02a (x) Withdrawals from the Cardano Blockchain treasury ~~made pursuant
+to an approved Cardano Blockchain ecosystem budget~~ **must not** exceed the net
 change limit for the Cardano Treasury's balance per period of time
 
 TREASURY-03a (x) Withdrawals from the Cardano Blockchain treasury **must** be
 denominated in ada
 
-TREASURY-04a (x) Withdrawals from the Cardano Blockchain treasury **must not**
+~~TREASURY-04a (x) Withdrawals from the Cardano Blockchain treasury **must not**
 be ratified until there is a Cardano Community approved Cardano Blockchain
 ecosystem budget then in effect pursuant to a previous on-chain governance
 action agreed by the DReps with a threshold of greater than 50% of the active
-voting stake
+voting stake~~
 
 ### 4. Guardrails and Guidelines on Hard Fork Initiation Actions
 
