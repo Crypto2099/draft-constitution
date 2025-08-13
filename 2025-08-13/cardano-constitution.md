@@ -170,9 +170,9 @@ and to allow community sentiment to be gauged without committing to any
 on-chain change to the Cardano Blockchain.
 Such "Info" actions have no on-chain effect other than to record such "Info"
 actions on the Cardano Blockchain.
-In accordance with Article VII Section 4, "Info" actions shall also be used in
+~~In accordance with Article VII Section 4, "Info" actions shall also be used in
 connection with proposed Cardano Blockchain ecosystem budgets and Cardano
-Blockchain treasury withdrawals.
+Blockchain treasury withdrawals.~~
 
 ### Section 5
 
